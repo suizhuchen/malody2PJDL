@@ -85,7 +85,6 @@ def mc2json(mc_path: str, mc_dir: str) -> str:
                     note['column']
                 ]
             notes.append(single_note)
-            print(single_note)
         else:
             # TODO:fix offset
             corrected = int(note['offset']) / 1000
@@ -104,7 +103,7 @@ def mc2json(mc_path: str, mc_dir: str) -> str:
     final_dict['info'] = info
     final_dict['name'] = song_name
     final_dict['notes'] = notes
-    final_dict['tag'] = []
+    final_dict['tags'] = []
 
     with open(f'export/{path_name}/chart.json', 'w', encoding='UTF-8') as chart:
         json.dump(final_dict, chart, ensure_ascii=False, indent=None)
