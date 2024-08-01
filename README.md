@@ -73,7 +73,9 @@ README文件模板：[Best_README_template](https://github.com/shaojintian/Best_
 
 [issues-url]: https://img.shields.io/github/issues/suizhuchen/malody2PJDL.svg
 
-[license-shield]: https://img.shields.io/github/license/suizhuchen/malody2PJDL.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/suizhuchen/osu2PJDL.svg?style=flat-square
+
+[license-url]: https://github.com/suizhuchen/osu2PJDL/blob/master/LICENSE.txt
 
 [linkedin-url]: https://linkedin.com/in/shaojintian
 
