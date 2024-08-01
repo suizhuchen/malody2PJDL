@@ -49,7 +49,7 @@ suichen114514@outlook.com
 
 ### 鸣谢
 
-PJDL作者：[爱唱歌的花枝丸](https://github.com/hua-zhi-wan)
+PJDL作者：[会唱歌的花枝丸](https://github.com/hua-zhi-wan)
 
 README文件模板：[Best_README_template](https://github.com/shaojintian/Best_README_template)
 
@@ -74,10 +74,6 @@ README文件模板：[Best_README_template](https://github.com/shaojintian/Best_
 [issues-url]: https://img.shields.io/github/issues/suizhuchen/malody2PJDL.svg
 
 [license-shield]: https://img.shields.io/github/license/suizhuchen/malody2PJDL.svg?style=flat-square
-
-[license-url]: https://github.com/suizhuchen/malody2PJDL/blob/master/LICENSE.txt
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
 [linkedin-url]: https://linkedin.com/in/shaojintian
 
